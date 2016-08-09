@@ -1,0 +1,15 @@
+body{
+	background-color: #b7d1c4
+}
+h1{
+	color: red;
+}
+
+
+
+#container {
+	/*setting width to  700px */
+  width: 700px;
+  margin: 0 auto;
+}
+
